@@ -18,4 +18,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           port: 22
           source: "./*"
-          target: "/home/s2134588-php/htdocs/s2134588.ncgrp.xyz/devops"
+          target: "/home/s2134588-php/htdocs/s2134588.ncgrp.xyz/devopsw2"
